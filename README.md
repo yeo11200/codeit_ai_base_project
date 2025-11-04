@@ -2,6 +2,17 @@
 
 코드잇 AI 초급 프로젝트
 
+## 개인일지
+
+- 신진섭(https://www.notion.so/2998a4078e6380b6842fece845ac9b8e?source=copy_link)
+- 김동현(https://blog.naver.com/so_tree_/224062830172)
+- 주재홍(https://flyingjoojak.github.io/joojak.github.io/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%9C%EC%9D%B8%EC%9D%BC%EC%A7%80.html)
+- 한상준(https://bush-cart-f36.notion.site/2a1b0e4d1458802da7a1f166d1239c3b)
+
+## 발표자료
+
+- 발표자료[https://www.canva.com/design/DAG3nOktAoo/jYNn2BgEAw77wHUGkP3pCA/edit?utm_content=DAG3nOktAoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 ## 📁 프로젝트 구조
 
 ```
